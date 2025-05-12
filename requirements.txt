@@ -1,0 +1,10 @@
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.19.0
+pygame>=2.0.0
+tensorflow>=2.5.0
+mediapipe>=0.8.9
+
+# Optional dependencies
+matplotlib>=3.4.0  # For visualization if needed
+pillow>=8.0.0     # For image processing if needed
